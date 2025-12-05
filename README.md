@@ -1,8 +1,7 @@
 <h1 align="center"> 𝐂𝐘𝐏𝐇𝐄𝐑 𝐗 </h1>
 
 <p align="center">
-  <a href="https://github.com/Dark-Xploit/CypherX">
-    <img alt="Sonia md docs" height="350" src="https://i.ibb.co/KjNYgKjp/Chat-GPT-Image-Dec-5-2025-05-53-45-AM.png">
+  <a 
   </a>
 </p>
     
