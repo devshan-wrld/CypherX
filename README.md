@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Dark-Xploit/CypherX">
-    <img alt="CypherX docs" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
+    <img alt="Sonia md docs" height="350" src="https://i.ibb.co/KjNYgKjp/Chat-GPT-Image-Dec-5-2025-05-53-45-AM.png">
   </a>
 </p>
     
